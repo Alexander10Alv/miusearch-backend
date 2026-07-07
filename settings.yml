@@ -18,7 +18,7 @@ search:
 
 server:
   # Cambia esto por una cadena aleatoria propia (openssl rand -hex 32)
-  secret_key: "CAMBIA-ESTO-POR-ALGO-ALEATORIO-Y-LARGO"
+  secret_key: "arektennyson2026"
   limiter: false
   image_proxy: true
   method: "GET"
